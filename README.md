@@ -1,6 +1,6 @@
-**Fechilis Privacy Policy**
+**Dalaway Privacy Policy**
 
-At **Fechilis**, we prioritize the privacy and security of our users' personal data. This Privacy Policy outlines the types of data we collect, how it is processed, and your rights regarding your information.
+At **Dalaway**, we prioritize the privacy and security of our users' personal data. This Privacy Policy outlines the types of data we collect, how it is processed, and your rights regarding your information.
 
 **1\. Information Collection and Use**
 
@@ -90,13 +90,13 @@ We may update this Privacy Policy periodically. We encourage you to review this 
 
 If you have any questions or suggestions about our Privacy Policy, please contact us:
 
-- **Email**: <fechilis1@gmail.com>
+- **Email**: <Dalaway1@gmail.com>
 
 **11\. Location App**
 
 **Collection and Use of Location Data**
 
-FechilisApp collects location data to provide you with a more tailored and efficient experience. We collect and use your location data to show the distance between your current location and available vacant properties. This feature helps you make informed decisions about potential rental listings based on their proximity to your location.
+DalawayApp collects location data to provide you with a more tailored and efficient experience. We collect and use your location data to show the distance between your current location and available vacant properties. This feature helps you make informed decisions about potential rental listings based on their proximity to your location.
 
 **Types of Location Data Collected**
 
@@ -120,7 +120,7 @@ We may collect location data even when the app is not in use (in the background)
 
 **User Control Over Location Data**
 
-You can enable or disable location services at any time through your mobile device settings. Disabling location services may limit the functionality of certain features of FechilisApp that rely on location data.
+You can enable or disable location services at any time through your mobile device settings. Disabling location services may limit the functionality of certain features of DalawayApp that rely on location data.
 
 **Data Retention and Deletion Policy**
 
